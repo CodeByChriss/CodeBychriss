@@ -29,9 +29,9 @@ Desarrollador con sólida formación técnica y mentalidad orientada a la resolu
 
 ### 🎓 Formación & Certificaciones
 
-- 📜 [**Scientific Computing with Python** — freeCodeCamp](https://www.freecodecamp.org/certification/fccea4f164a-2908-48f4-899a-cb37d2a5ae9e/python-v9)
-- 🎓 **C.F.G.S. en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 - 🎓 **C.F.G.M. en Sistemas Microinformáticos y Redes (SMR)**
+- 🎓 **C.F.G.S. en Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- 📜 [**Scientific Computing with Python** — freeCodeCamp](https://www.freecodecamp.org/certification/fccea4f164a-2908-48f4-899a-cb37d2a5ae9e/python-v9)
 - 🧠 **Especialización en Big Data & Inteligencia Artificial** *(En formación)*
 
 ---
