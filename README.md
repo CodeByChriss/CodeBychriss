@@ -43,17 +43,3 @@ Actualmente estoy cursando el **Máster en Big Data e Inteligencia Artificial en
 
 - **Microsoft Certified: SQL AI Developer Associate (DP-800)** 
   - *Diseño de bases de datos relacionales/no relacionales, integración de búsqueda vectorial, consumo de embeddings en motores SQL y exposición de APIs con Data API Builder.*
-
----
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByChriss&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de Christian">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByChriss&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados">
-</p>
-
----
-
-📫 **¿Hablamos?**  
-Puedes conectar conmigo directamente a través de [LinkedIn](https://www.linkedin.com/in/christian-salguero).
