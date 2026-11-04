@@ -1,54 +1,59 @@
-# Hola, soy Christian Salguero 👋
+# ¡Hola, soy Christian Salguero! 👋
 
-### 🚀 Software & Mobile Developer | Data & AI Enthusiast
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-salguero)
+[![Portfolio/Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com)
 
-Desarrollador con sólida formación técnica y mentalidad orientada a la resolución de problemas. Cuento con experiencia en **desarrollo software, aplicaciones móviles (Android) y gestión de bases de datos**, con un enfoque continuo hacia el ecosistema del **Big Data y la Inteligencia Artificial**.
+🚀 **Futuro AI / ML Engineer** afincado en Madrid, España.
 
----
-
-### 🛠️ Tecnologías y Herramientas
-
-#### Lenguajes de Programación & Móvil
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-#### Bases de Datos, Sistemas & Herramientas
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### Inteligencia Artificial & Entorno Local
-![Artificial Intelligence](https://img.shields.io/badge/AI_&_LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Local_AI-Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
+Actualmente estoy cursando el **Máster en Big Data e Inteligencia Artificial en Tajamar Tech** (becado por la **Fundación Alfonso Martín Escudero**) en colaboración con Microsoft, tras haber completado el grado superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 ---
 
-### 🎓 Formación & Certificaciones
+## 💡 Sobre mí
 
-- 🎓 **C.F.G.M. en Sistemas Microinformáticos y Redes (SMR)**
-- 🎓 **C.F.G.S. en Desarrollo de Aplicaciones Multiplataforma (DAM)**
-- 📜 [**Scientific Computing with Python** — freeCodeCamp](https://www.freecodecamp.org/certification/fccea4f164a-2908-48f4-899a-cb37d2a5ae9e/python-v9)
-- 🧠 **Especialización en Big Data & Inteligencia Artificial** *(En formación)*
-
----
-
-### 🔬 Intereses & Objetivos Actuales
-
-- 🤖 Experimentación y despliegue de **modelos de IA en local** (LLMs).
-- 📱 Desarrollo de aplicaciones y lógica en **Java / Kotlin** y **Python**.
-- 📊 Diseño, administración y optimización de bases de datos relacionales.
-- 📈 Profundización en arquitectura de datos, pipelines y soluciones de Big Data.
+- 🎓 Cursando **Máster en Big Data e IA** en Tajamar Tech.
+- 💼 Experiencia práctica previa desarrollando agentes de IA y flujos de trabajo en **SAND** (Databricks, n8n, Power Automate, Copilot Studio).
+- 🏆 Certificado oficialmente por Microsoft: **Microsoft Certified: SQL AI Developer Associate (DP-800)**.
+- 🎯 Orientado a la ingeniería de datos, el diseño de arquitecturas agénticas y la implementación de soluciones de IA generativa y Machine Learning en producción.
 
 ---
 
-### 📬 Contacto y Redes
+## 🛠️ Stack Tecnológico
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/christian-salguero" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+### 🤖 IA & Datos
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search_&_Embeddings-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+### ⚙️ Automatización & Agentes
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+### 💻 Desarrollo & Entorno
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+## 📜 Certificaciones
+
+- **Microsoft Certified: SQL AI Developer Associate (DP-800)** 
+  - *Diseño de bases de datos relacionales/no relacionales, integración de búsqueda vectorial, consumo de embeddings en motores SQL y exposición de APIs con Data API Builder.*
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianSalguero&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de Christian" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSalguero&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="45%" />
 </p>
+
+---
+
+📫 **¿Hablamos?**  
+Puedes conectar conmigo directamente a través de [LinkedIn](https://www.linkedin.com/in/christian-salguero).
