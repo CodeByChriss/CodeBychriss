@@ -1,6 +1,7 @@
 # ¡Hola, soy Christian Salguero! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-salguero)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/codebychriss)
 
 🚀 **Futuro AI / ML Engineer** afincado en Madrid, España.
 
@@ -48,8 +49,8 @@ Actualmente estoy cursando el **Máster en Big Data e Inteligencia Artificial en
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByChriss&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de Christian" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByChriss&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByChriss&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de Christian">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByChriss&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados">
 </p>
 
 ---
